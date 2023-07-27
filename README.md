@@ -65,3 +65,6 @@ Productos posibles a cargar
 "category":"vehiculo",
 "thumbnail":["ruta-de-imagen.jpg"]
 }
+
+COLECCION EN POSTMAN 
+https://api.postman.com/collections/28752648-cfa3765b-ac5b-476e-943b-ef152dbc84a8?access_key=PMAT-01H6AKS5967DQ1H0EWZH81EVAM
